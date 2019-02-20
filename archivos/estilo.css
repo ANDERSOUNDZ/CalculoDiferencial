@@ -1,0 +1,76 @@
+body { background-color: #cf8b0c; }
+
+.navbarcol {
+    background: #fff;
+}
+
+.fila1 {
+    background: #ffffff;
+}
+
+.fila2 {
+    background: #f1b15e;
+}
+
+.fila3 {
+    background: #ff3700;
+}
+
+.fila4 {
+    background: #fff06d;
+}
+
+.fila5 {
+    background: #ffffff;
+}
+.filaq6 {
+    background: #000000;
+}
+
+.filaq7 {
+    background: #363636;
+}
+
+.filaq8 {
+    background: #9dd4f8;
+}
+
+.filaq9 {
+    background: #bae1fc;
+}
+
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bg {
+    background: url(./img/A10.png) fixed repeat;
+  }
+
+.bg1 {
+    background: #fc9c2f;
+}
+
+.bg2 {
+    background: url(./img/A11.png) fixed;
+  }
+
+  .bg3 {
+    background: url(./img/11A.jpg) fixed;
+  }
+
+  .bg4 {
+    background: url(./img/A12.jpg) fixed;
+  }
+
+  .bg5 {
+    background: url(./img/A13.jpg) fixed;
+  }
+
+  .bg6 {
+    background: url(./img/A14.jpg) fixed;
+  }
